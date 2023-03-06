@@ -7,5 +7,3 @@
 
 <Hero />
 <BlogPosts />
-
-<Footer />

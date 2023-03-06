@@ -2,7 +2,7 @@
 	<div class="container py-24 mx-auto">
 		<div class="flex flex-wrap space-y-8 md:space-y-0">
 			<div class="md:p-4 md:w-1/3">
-				<div class="h-full bg-white/80 rounded-lg overflow-hidden">
+				<div class="h-full bg-white/70 rounded-lg overflow-hidden">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"
 						src="https://images.unsplash.com/photo-1481595357459-84468f6eeaac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
@@ -18,7 +18,7 @@
 							whiskey a následkem toho nemají v zimě co pít a pomřou.
 						</p>
 						<div class="flex items-center flex-wrap ">
-							<a class="text-yellow-500 inline-flex items-center md:mb-2 lg:mb-0"
+							<a class="text-lavblue-900 inline-flex items-center md:mb-2 lg:mb-0"
 								>Číst
 								<svg
 									class="w-4 h-4 ml-2"
@@ -38,7 +38,7 @@
 				</div>
 			</div>
 			<div class="md:p-4 md:w-1/3">
-				<div class="h-full  rounded-lg overflow-hidden bg-white/80">
+				<div class="h-full  rounded-lg overflow-hidden bg-white/70">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"
 						src="https://images.unsplash.com/photo-1594607848888-3f48550b642e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
@@ -54,7 +54,7 @@
 							waistcoat.
 						</p>
 						<div class="flex items-center flex-wrap">
-							<a class="text-yellow-500 inline-flex items-center md:mb-2 lg:mb-0"
+							<a class="text-lavblue-900 inline-flex items-center md:mb-2 lg:mb-0"
 								>Číst
 								<svg
 									class="w-4 h-4 ml-2"
@@ -74,7 +74,7 @@
 				</div>
 			</div>
 			<div class="md:p-4 md:w-1/3">
-				<div class="h-full  rounded-lg overflow-hidden bg-white/80">
+				<div class="h-full  rounded-lg overflow-hidden bg-white/70">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"
 						src="https://images.unsplash.com/photo-1590334280707-9d5e0f60a539?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80"
@@ -90,7 +90,7 @@
 							waistcoat.
 						</p>
 						<div class="flex items-center flex-wrap ">
-							<a class="text-yellow-500 inline-flex items-center md:mb-2 lg:mb-0"
+							<a class="text-lavblue-900 inline-flex items-center md:mb-2 lg:mb-0"
 								>Číst
 								<svg
 									class="w-4 h-4 ml-2"

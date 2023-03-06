@@ -9,11 +9,9 @@
 		<div class="flex flex-row items-center justify-between lg:justify-start">
 			<svg
 				viewBox="0 0 24 24"
-				data-name="016_FOOD"
-				id="_016_FOOD"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="currentColor"
-                class="w-8 h-8 mr-2 text-teak-900"
+                class="w-8 h-8 mr-2 text-lavblue-300 bg-lavblue-600 rounded-full p-2 "
 				><g id="SVGRepo_bgCarrier" stroke-width="0" /><g
 					id="SVGRepo_tracerCarrier"
 					stroke-linecap="round"
@@ -33,12 +31,12 @@
 			>
 			<a
 				href="/"
-				class="text-lg font-bold tracking-tighter text-teak-900 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
+				class="text-lg font-bold tracking-tighter text-tuatara-600 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
 			>
 				Včelař Ondra
 			</a>
 			<button
-				class="rounded-lg md:hidden focus:outline-none focus:shadow-outline text-teak-900"
+				class="rounded-lg md:hidden focus:outline-none focus:shadow-outline text-tuatara-600"
 				on:click={() => (open = !open)}
 			>
 				{#if open}
@@ -74,11 +72,11 @@
 		<nav
 			class="flex-col flex-grow md:flex mt-4 md:justify-end md:flex-row {open ? 'flex' : 'hidden'}"
 		>
-			<ul class="space-y-2 list-none lg:space-y-0 lg:items-center lg:inline-flex font-bold">
+			<ul class="space-y-2 md:space-y-0 list-none lg:space-y-0 lg:items-center md:inline-flex font-bold">
 				<li>
 					<a
 						href="/offer"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-teak-800 hover:text-gray-800"
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800"
 					>
 						Co nabízím
 					</a>
@@ -86,7 +84,7 @@
 				<li>
 					<a
 						href="/contact"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-teak-800 hover:text-gray-800 "
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800 "
 					>
 						Kontakt
 					</a>
@@ -94,7 +92,7 @@
 				<li>
 					<a
 						href="/about"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-teak-800 hover:text-gray-800"
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800"
 					>
 						O mě
 					</a>
