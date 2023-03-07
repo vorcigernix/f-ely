@@ -1,12 +1,11 @@
-<div class=" w-full px-5 py-24 mx-auto lg:px-32">
-	<div class="flex flex-col w-full mx-auto mb-2 prose text-left prose-md">
-		<div class="mb-5 border-b border-hurricane-500">
-			<div class="flex flex-wrap items-baseline -mt-2 font-bold">
+<div class=" w-full px-5 mx-auto lg:px-32">
+	<div class="relative items-center w-full py-12 mx-auto md:px-12 lg:px-16 max-w-7xl prose">
+		<div class="mb-5 border-b border-hurricane-300">
+			<div class="flex flex-wrap items-baseline justify-center font-bold">
 				
-				<p class="mt-1 ml-2 uppercase">Něco málo o mě</p>
+				<p class=" text-black text-4xl uppercase">Něco málo o mě</p>
 			</div>
 		</div>
-		<h1>Založil jsem spolek medová tíseň.</h1>
 		<p>
 			Ke včelaření jsem se dostal díky svojí kamarádce, která mi ukázala, jak vypadá život v úle.
 			Zažehla lásku na celý život. Svět včel je natolik fascinující a učí mě pokoře – včely jsou
