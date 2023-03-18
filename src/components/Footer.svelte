@@ -1,24 +1,24 @@
-<footer class="text-lavblue-70 body-font w-full">
+<footer class="text-hurricane-70 body-font w-full md:max-w-7xl mb-4">
 	<div class=" px-5 py-8 mx-auto flex items-center w-full justify-between sm:flex-row flex-col">
-		<a
-			class="flex title-font font-medium items-center md:justify-start justify-center text-black"
-		>
-			<span class="text-lg font-bold tracking-tighter text-teak-100 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
-			>Včelař Ondra</span>
+		<a class="flex title-font font-medium items-center md:justify-start justify-center text-black">
+			<span
+				class="text-lg font-bold tracking-tighter text-teak-100 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
+				>Včelař Ondra</span
+			>
 		</a>
 		<p
-			class="text-sm text-lavblue-700 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-lavblue-700 sm:py-2 sm:mt-0 mt-4"
+			class="text-sm text-hurricane-700 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-hurricane-700 sm:py-2 sm:mt-0 mt-4"
 		>
 			© 2023 Ondřej Machek —
 			<a
 				href="https://twitter.com/knyttneve"
-				class="text-lavblue-700 ml-1"
+				class="text-hurricane-700 ml-1"
 				rel="noopener noreferrer"
 				target="_blank">@omachek</a
 			>
 		</p>
 		<span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-			<a class="text-lavblue-700">
+			<a class="text-hurricane-700">
 				<svg
 					fill="currentColor"
 					stroke-linecap="round"
@@ -30,7 +30,7 @@
 					<path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
 				</svg>
 			</a>
-			<a class="ml-3 text-lavblue-700">
+			<a class="ml-3 text-hurricane-700">
 				<svg
 					fill="currentColor"
 					stroke-linecap="round"
@@ -44,7 +44,7 @@
 					/>
 				</svg>
 			</a>
-			<a class="ml-3 text-lavblue-700">
+			<a class="ml-3 text-hurricane-700">
 				<svg
 					fill="none"
 					stroke="currentColor"
@@ -58,7 +58,7 @@
 					<path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
 				</svg>
 			</a>
-			<a class="ml-3 text-lavblue-700">
+			<a class="ml-3 text-hurricane-700">
 				<svg
 					fill="currentColor"
 					stroke="currentColor"
@@ -78,4 +78,3 @@
 		</span>
 	</div>
 </footer>
-

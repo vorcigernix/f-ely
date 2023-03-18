@@ -4,14 +4,14 @@
 
 <div class="w-full md:max-w-7xl mb-4">
 	<div
-		class="flex flex-col max-w-screen-xl p-5 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8"
+		class="flex flex-col max-w-screen-xl mx-auto md:items-center md:justify-between md:flex-row p-2 my-2  rounded-full"
 	>
 		<div class="flex flex-row items-center justify-between lg:justify-start">
 			<svg
 				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="currentColor"
-                class="w-8 h-8 mr-2 text-lavblue-300 bg-lavblue-600 rounded-full p-2 "
+				class="w-8 h-8 mr-2 text-white bg-hurricane-600 rounded-full p-2 "
 				><g id="SVGRepo_bgCarrier" stroke-width="0" /><g
 					id="SVGRepo_tracerCarrier"
 					stroke-linecap="round"
@@ -72,7 +72,9 @@
 		<nav
 			class="flex-col flex-grow md:flex mt-4 md:justify-end md:flex-row {open ? 'flex' : 'hidden'}"
 		>
-			<ul class="space-y-2 md:space-y-0 list-none lg:space-y-0 lg:items-center md:inline-flex font-bold">
+			<ul
+				class="space-y-2 md:space-y-0 list-none lg:space-y-0 lg:items-center md:inline-flex font-bold"
+			>
 				<li>
 					<a
 						href="/offer"
