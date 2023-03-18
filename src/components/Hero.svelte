@@ -31,14 +31,14 @@
 					<div class="mt-3 rounded-lg sm:mt-0">
 						<a
 							href="about"
-							class="items-center block px-10 py-4 text-base font-medium text-center text-lavblue-900 transition duration-500 ease-in-out transform bg-lavblue-200 rounded-xl hover:bg-lavblue-300/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lavblue-500"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white hover:border-hurricane-300 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-white hover:bg-hurricane-100"
 							>O mě</a
 						>
 					</div>
 					<div class="mt-3 rounded-lg sm:mt-0 sm:ml-3">
 						<a
 							href="/offer"
-							class="items-center block px-10 py-3.5 text-base font-medium text-center shadow-lavblue-300 transition duration-500 ease-in-out transform border-2 border-lavblue-900 hover:bg-lavblue-300/50 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-white transition duration-500 ease-in-out transform border-2 border-hurricane-600 hover:border-hurricane-700 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-hurricane-600 hover:bg-hurricane-700"
 							>Nabídka</a
 						>
 					</div>

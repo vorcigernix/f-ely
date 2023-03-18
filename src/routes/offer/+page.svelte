@@ -11,7 +11,7 @@
 							<span class="text-5xl font-extrabold tracking-tight">od 300</span>
 							<span class="ml-1 text-xl font-semibold">,-měsíčně</span>
 						</p>
-						<p class="mt-6 text-gray-500">Základy práce se včelami i pokročilé techniky.</p>
+						<p class="mt-6 text-hurricane-500">Základy práce se včelami i pokročilé techniky.</p>
 
 						<!-- Feature list -->
 						<ul class="pt-6 mt-6 space-y-6 border-t">
@@ -106,9 +106,9 @@
 						<a
 							href="/training"
 							type="highlight"
-							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white hover:border-hurricane-300 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-white hover:bg-hurricane-100"
 						>
-							Začít
+							Nabídka
 						</a>
 					</div>
 				</div>
@@ -227,7 +227,7 @@
 						<a
 							href="mailto:vcelarstvimachek@seznam.cz?subject=med&body=Objedn%C3%A1v%C3%A1m%20t%C3%ADmto%20n%C3%A1sleduj%C3%ADc%C3%AD%20med%20(nehod%C3%ADc%C3%AD%20se%20vyma%C5%BEte)%0D%0A1x%20Kv%C4%9Btov%C3%BD%20950g%20za%20220%20k%C4%8D%0D%0A1x%20Kv%C4%9Btov%C3%BD%20450g%20za%20150%20k%C4%8D%0D%0A1x%20Lesn%C3%AD%20950g%20za%20250%20k%C4%8D%0D%0A1x%20Lesn%C3%AD%20450g%20za%20170%20k%C4%8D%0D%0A1x%20Lipov%C3%BD%20950g%20za%20240%20k%C4%8D%0D%0A1x%20Lipov%C3%BD%20450g%20za%20160%20k%C4%8D%0D%0A1x%20Pasterovan%C3%BD%20950g%20za%20220%20k%C4%8D%0D%0A1x%20Pasterovan%C3%BD%20450g%20za%20150%20k%C4%8D%0D%0A%0D%0ATelefonick%C3%BD%20kontakt%20na%20mne%20je%3A%0D%0A%0D%0AS%20pozdravem"
 							type="highlight"
-							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white hover:border-hurricane-300 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-white hover:bg-hurricane-100"
 						>
 							Koupit
 						</a>
@@ -240,7 +240,7 @@
 							<span class="text-5xl font-extrabold tracking-tight">od 2600</span>
 							<span class="ml-1 text-xl font-semibold">,-</span>
 						</p>
-						<p class="mt-6 text-gray-500">Oddělky na ramkové míře 39x24 s F1 matkami.</p>
+						<p class="mt-6 text-hurricane-500">Oddělky na ramkové míře 39x24 s F1 matkami.</p>
 
 						<!-- Feature list -->
 						<ul class="pt-6 mt-6 space-y-6 border-t">
@@ -305,8 +305,7 @@
 					<div class="mt-6 rounded-lg">
 						<a
 							href="mailto:vcelarstvimachek@seznam.cz?subject=odd%C4%9Blek&body=Objedn%C3%A1v%C3%A1m%20t%C3%ADmto%20r%C3%A1mkov%C3%BD%20odd%C4%9Blek%20bez%20%C3%BAlu%20za%202600%20K%C4%8D%20%2F%20v%C4%8Detn%C4%9B%20%C3%BAlu%20za%204500%20K%C4%8D.%0D%0ATelefonick%C3%BD%20kontakt%20na%20mne%20je%3A%0D%0A%0D%0AS%20pozdravem"
-							type="highlight"
-							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 bg-white"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white hover:border-hurricane-300 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-white hover:bg-hurricane-100"
 						>
 							Koupit
 						</a>
