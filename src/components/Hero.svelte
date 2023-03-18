@@ -8,7 +8,7 @@
 							<img
 								class="object-cover object-center mx-auto rounded-lg shadow-2xl shadow-lavblue-600"
 								alt="hero"
-								src="https://images.unsplash.com/photo-1594607848888-3f48550b642e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+								src="https://images.unsplash.com/photo-1523565152756-59eac4c1489c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 							/>
 						</div>
 					</div>
@@ -18,7 +18,7 @@
 				class="flex flex-col items-start mt-12 mb-16 text-left lg:flex-grow lg:w-1/2 lg:pl-6 xl:pl-24 md:mb-0 xl:mt-0"
 			>
 				<span class="mb-8 text-xs font-bold tracking-widest uppercase"> Včelař Ondra </span>
-				<h1 class="mb-8 text-4xl font-bold leading-none tracking-tighter  md:text-7xl lg:text-5xl">
+				<h1 class="mb-8 text-4xl font-bold leading-none tracking-tighter  md:text-7xl lg:text-7xl">
 					Pestrý horský med od spokojených včel.
 				</h1>
 				<p class="mb-8 text-base leading-relaxed text-left text-hurricane-800">

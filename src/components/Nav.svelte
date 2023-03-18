@@ -11,7 +11,7 @@
 				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="currentColor"
-				class="w-8 h-8 mr-2 text-white bg-hurricane-600 rounded-full p-2 "
+				class="w-12 h-12 mr-2 text-white bg-lavblue-300 rounded-full p-2 "
 				><g id="SVGRepo_bgCarrier" stroke-width="0" /><g
 					id="SVGRepo_tracerCarrier"
 					stroke-linecap="round"
@@ -31,12 +31,12 @@
 			>
 			<a
 				href="/"
-				class="text-lg font-bold tracking-tighter text-tuatara-600 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
+				class="text-lg font-bold tracking-tighter text-tuatara-900 transition duration-500 ease-in-out transform tracking-relaxed lg:pr-8"
 			>
 				Včelař Ondra
 			</a>
 			<button
-				class="rounded-lg md:hidden focus:outline-none focus:shadow-outline text-tuatara-600"
+				class="rounded-lg md:hidden focus:outline-none focus:shadow-outline text-tuatara-900"
 				on:click={() => (open = !open)}
 			>
 				{#if open}
@@ -78,7 +78,7 @@
 				<li>
 					<a
 						href="/offer"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800"
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-900 hover:text-lavblue-400"
 					>
 						Co nabízím
 					</a>
@@ -86,7 +86,7 @@
 				<li>
 					<a
 						href="/contact"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800 "
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-900 hover:text-lavblue-400 "
 					>
 						Kontakt
 					</a>
@@ -94,7 +94,7 @@
 				<li>
 					<a
 						href="/about"
-						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-600 hover:text-gray-800"
+						class="px-2 lg:px-6 py-6 text-sm leading-[22px] md:px-3 text-tuatara-900 hover:text-lavblue-400"
 					>
 						O mě
 					</a>

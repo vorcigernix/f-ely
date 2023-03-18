@@ -1,7 +1,7 @@
 <section class="text-gray-600 body-font p-2">
 	<div class="container py-24 mx-auto">
-		<div class="flex flex-wrap space-y-8 md:space-y-0">
-			<div class="md:p-4 md:w-1/3">
+		<div class="flex flex-wrap space-y-8 lg:space-y-0 ">
+			<div class="lg:p-4 lg:w-1/3">
 				<div class="h-full bg-white/70 rounded-lg overflow-hidden">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"
@@ -37,7 +37,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="md:p-4 md:w-1/3">
+			<div class="lg:p-4 lg:w-1/3">
 				<div class="h-full  rounded-lg overflow-hidden bg-white/70">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"
@@ -73,7 +73,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="md:p-4 md:w-1/3">
+			<div class="lg:p-4 lg:w-1/3">
 				<div class="h-full  rounded-lg overflow-hidden bg-white/70">
 					<img
 						class="lg:h-48 md:h-36 w-full object-cover object-center"

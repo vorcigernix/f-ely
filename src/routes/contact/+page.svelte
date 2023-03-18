@@ -6,9 +6,9 @@
 					<div class="relative w-full max-w-lg">
 						<div class="relative">
 							<img
-								class="object-cover object-center mx-auto rounded-full shadow-2xl shadow-gray-600"
+								class="object-cover object-center mx-auto rounded-lg shadow-2xl shadow-lavblue-600"
 								alt="hero"
-								src="map.png"
+								src="https://images.unsplash.com/photo-1548946662-88f5d8135902?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=830&q=80"
 							/>
 						</div>
 					</div>
