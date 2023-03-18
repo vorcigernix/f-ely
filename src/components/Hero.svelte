@@ -6,7 +6,7 @@
 					<div class="relative w-full max-w-lg">
 						<div class="relative">
 							<img
-								class="object-cover object-center mx-auto rounded-lg shadow-2xl shadow-lavblue-600"
+								class="object-cover object-center mx-auto rounded-lg shadow-2xl shadow-lavblue-500"
 								alt="hero"
 								src="https://images.unsplash.com/photo-1523565152756-59eac4c1489c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 							/>
@@ -21,7 +21,7 @@
 				<h1 class="mb-8 text-4xl font-bold leading-none tracking-tighter  md:text-7xl lg:text-7xl">
 					Pestrý horský med od spokojených včel.
 				</h1>
-				<p class="mb-8 text-base leading-relaxed text-left text-hurricane-800">
+				<p class="mb-8 text-base leading-relaxed text-left text-lavblue-800">
 					Včelařím od svých 10 let, kdy jsme se na včelařském kroužku se včelami poprvé seznámil.
 					Chovám včely v dřevěných úlech kousek od Jablonce nad Nisou v nadmořské výšce 550 m.n.m.
 					Včely zde sbírají nektar z ovocných stromů, luk, místních zahrad a pokud se zadaří, tak je
@@ -31,14 +31,14 @@
 					<div class="mt-3 rounded-lg sm:mt-0">
 						<a
 							href="about"
-							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-hurricane-600 transition duration-500 ease-in-out transform border-2 border-white hover:border-hurricane-300 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-white hover:bg-hurricane-100"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-lavblue-500 transition duration-500 ease-in-out transform border-2 border-lavblue-100 hover:border-lavblue-400 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lavblue-500 bg-lavblue-100 hover:bg-lavblue-200"
 							>O mě</a
 						>
 					</div>
 					<div class="mt-3 rounded-lg sm:mt-0 sm:ml-3">
 						<a
 							href="/offer"
-							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-white transition duration-500 ease-in-out transform border-2 border-hurricane-600 hover:border-hurricane-700 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-hurricane-500 bg-hurricane-600 hover:bg-hurricane-700"
+							class="w-full items-center block px-10 py-3.5 text-base font-medium text-center text-lavblue-500 transition duration-500 ease-in-out transform border-2 border-lavblue-100 hover:border-lavblue-400 shadow-md rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lavblue-500 bg-lavblue-100 hover:bg-lavblue-200"
 							>Nabídka</a
 						>
 					</div>
