@@ -17,7 +17,7 @@
 				<p>
 					Pro ty, kterým vyhovuje spíše individuální přístup, nabízím osobní vedení v začátcích
 					včelaření. Forma už je čistě na domluvě, zpravidla je možné se domluvit a spojit přes
-					online meeting, po mailu, kde nabízím službu ,, včelař na mailu " a během 1 roku vám budu
+					online meeting nebo po mailu, kde nabízím službu "včelař na mailu" a během 1 roku vám budu
 					odpovídat na všechny vaše dotazy po mailu. Je také možné se spojit jinak dle domluvy.
 					Cena: 300 kč/hod za online meeting, 2500 kč na rok za službu včelaře na mailu.
 				</p>
@@ -25,7 +25,46 @@
 		</div>
 		<div
 			class="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row"
-		/>
+		>
+			<div
+				class="inline-flex items-center justify-center flex-shrink-0 w-20 h-20 text-neutral-600 rounded-full bg-lavblue-200 sm:mr-10"
+			>
+				<svg
+					viewBox="0 0 24 24"
+					xmlns="http://www.w3.org/2000/svg"
+					fill="currentColor"
+					class="w-10 h-10 mr-2 text-white bg-lavblue-300 rounded-full p-2 "
+					><g id="SVGRepo_bgCarrier" stroke-width="0" /><g
+						id="SVGRepo_tracerCarrier"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					/><g id="SVGRepo_iconCarrier"
+						><path
+							class="cls-1"
+							d="M16.5,22a1,1,0,0,1-.5-.13l-1.38-.8a1,1,0,0,1,1-1.73l.88.51,3.5-2v-4l-3.5-2-3.5,2V18a1,1,0,0,1-2,0v-4.8a1,1,0,0,1,.5-.87L16,9.74a1,1,0,0,1,1,0l4.5,2.6a1,1,0,0,1,.5.87V18.4a1,1,0,0,1-.5.87L17,21.87A1,1,0,0,1,16.5,22Z"
+						/><path
+							class="cls-1"
+							d="M7.5,22a1,1,0,0,1-.5-.13l-4.5-2.6A1,1,0,0,1,2,18.4V13.21a1,1,0,0,1,.5-.87L7,9.74a1,1,0,0,1,1,0l4.5,2.6a1,1,0,1,1-1,1.73l-4-2.31-3.5,2v4l3.5,2,4-2.31a1,1,0,0,1,1.37.36,1,1,0,0,1-.37,1.37L8,21.87A1,1,0,0,1,7.5,22Z"
+						/><path
+							class="cls-1"
+							d="M16.5,11.6a1,1,0,0,1-1-1V6L12,4,8.5,6V10.6a1,1,0,1,1-2,0V5.41A1,1,0,0,1,7,4.54l4.5-2.6a1,1,0,0,1,1,0L17,4.54a1,1,0,0,1,.5.87V10.6A1,1,0,0,1,16.5,11.6Z"
+						/></g
+					></svg
+				>
+			</div>
+			<div class="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
+				<h2>Včelař na mailu</h2>
+				<p>
+					S čímkoliv potřebujete pomoci, nebo máte pocit, že potřebujte konzultovat s dalším
+					odborným názorem. Včelař Ondra vám rád odpoví a po celý roku bude k dispozici vašim
+					dotazům.
+				</p>
+				<a
+					href="mailto:vcelarstvimachek@seznam.cz?subject=Objedn%C3%A1vka%20-%20v%C4%8Dela%C5%99%20na%20emailu&body=Dobr%C3%BD%20den%2C%0D%0Az%C3%A1vazn%C4%9B%20t%C3%ADmto%20objedn%C3%A1v%C3%A1m%20slu%C5%BEbu%20v%C4%8Dela%C5%99%20na%20m%C3%ADru%20v%20cen%C4%9B%202500%20K%C4%8D.%0D%0ATelefonn%C3%AD%20kontakt%3A%0D%0A%0D%0AS%20pozdravem%2C%0D%0A%0D%0A"
+					>Objednat</a
+				>
+			</div>
+		</div>
 		<div
 			class="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row"
 		>
