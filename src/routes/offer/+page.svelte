@@ -117,7 +117,7 @@
 						<h3 class="text-xl font-semibold text-white">Med</h3>
 
 						<p class="flex items-baseline mt-4 text-white justify-center">
-							<span class="text-5xl font-extrabold tracking-tight ">od 150</span>
+							<span class="text-5xl font-extrabold tracking-tight">od 150</span>
 							<span class="ml-1 text-xl font-semibold">,-</span>
 						</p>
 						<p class="mt-6 text-white text-solitud">
